@@ -1,0 +1,121 @@
+Student_ID,Student_Name,Gender,Age,Department,Attendance,Mathematics,Science,English,Computer,History
+S0001,Aarav Sharma,Female,21,Computer Science,84.9,62.1,48.7,73.5,69.6,59.7
+S0002,Aisha Das,Female,21,Arts,88.6,84.0,91.3,86.5,88.1,92.2
+S0003,Ananya Malik,Female,20,Arts,97.8,65.6,48.0,43.1,43.4,42.4
+S0004,Arjun Patel,Female,18,Business,88.0,84.2,84.1,71.4,77.1,56.0
+S0005,Diya Mehta,Male,21,Business,82.3,73.0,47.1,89.3,78.5,77.5
+S0006,Ishaan Bose,Female,19,Health Sciences,96.0,95.7,72.0,76.6,67.8,59.0
+S0007,Kabir Khan,Female,20,Computer Science,89.9,83.9,64.6,63.5,86.2,85.5
+S0008,Kiara Nair,Female,18,Arts,99.8,71.6,71.8,80.5,82.8,79.0
+S0009,Meera Kulkarni,Male,18,Engineering,87.6,62.5,74.6,59.8,95.2,65.9
+S0010,Neha Reddy,Female,17,Computer Science,75.0,52.1,69.8,66.8,84.6,87.0
+S0011,Rohan Joshi,Male,22,Business,73.7,70.8,80.4,81.5,85.6,72.0
+S0012,Sara Chopra,Female,17,Health Sciences,100.0,66.6,71.0,51.4,77.9,93.6
+S0013,Vihaan Gupta,Female,17,Arts,100.0,66.6,61.4,38.6,61.5,52.3
+S0014,Zoya Rao,Female,22,Arts,84.4,79.2,48.4,65.3,60.1,41.2
+S0015,Aditya Verma,Female,20,Arts,82.6,44.3,71.4,55.6,51.9,59.7
+S0016,Fatima Singh,Male,19,Arts,99.2,81.2,86.4,46.7,78.7,61.6
+S0017,Kavya Kapoor,Female,21,Business,76.0,61.1,80.2,84.0,68.6,62.5
+S0018,Mihir Fernandes,Female,19,Computer Science,77.9,88.3,91.3,86.9,71.6,85.4
+S0019,Nisha Iyer,Male,17,Health Sciences,91.8,66.7,73.9,60.7,78.4,73.0
+S0020,Rahul Thomas,Male,21,Business,82.4,51.8,100.0,58.9,82.4,64.3
+S0021,Sana Sharma,Male,18,Business,86.0,90.0,79.8,89.9,61.4,88.7
+S0022,Tanvi Das,Male,20,Engineering,84.5,62.8,68.4,75.3,72.6,82.0
+S0023,Vikram Malik,Male,22,Computer Science,89.0,73.6,73.0,100.0,96.0,95.3
+S0024,Yash Patel,Female,22,Health Sciences,98.7,52.9,55.3,71.8,82.4,70.1
+S0025,Aarav Mehta,Male,19,Arts,85.1,59.2,54.1,72.7,83.3,81.4
+S0026,Aisha Bose,Female,21,Arts,91.8,71.9,58.1,65.8,71.3,42.2
+S0027,Ananya Khan,Female,20,Business,67.5,56.6,60.0,69.6,52.7,53.0
+S0028,Arjun Nair,Male,19,Health Sciences,85.6,82.3,84.4,86.9,69.4,66.0
+S0029,Diya Kulkarni,Male,17,Business,78.4,71.2,69.5,82.9,75.0,66.3
+S0030,Ishaan Reddy,Male,19,Business,75.0,88.0,65.0,66.9,80.7,63.3
+S0031,Kabir Joshi,Female,20,Business,78.1,73.2,90.1,73.1,96.7,73.3
+S0032,Kiara Chopra,Male,22,Engineering,83.0,60.7,89.3,73.7,95.6,99.0
+S0033,Meera Gupta,Female,17,Computer Science,94.2,95.1,82.4,92.8,84.7,78.3
+S0034,Neha Rao,Male,21,Business,74.1,66.9,65.1,89.9,60.0,73.9
+S0035,Rohan Verma,Male,22,Health Sciences,86.3,81.7,76.9,63.8,68.5,63.6
+S0036,Sara Singh,Male,22,Computer Science,81.6,78.7,78.4,70.0,80.7,73.0
+S0037,Vihaan Kapoor,Male,19,Health Sciences,83.1,52.9,39.1,59.2,56.0,52.5
+S0038,Zoya Fernandes,Male,17,Health Sciences,95.0,61.3,58.3,55.1,54.1,60.5
+S0039,Aditya Iyer,Female,18,Arts,90.8,82.4,64.1,71.4,66.0,70.9
+S0040,Fatima Thomas,Female,22,Arts,98.0,85.0,51.2,34.0,58.0,77.8
+S0041,Kavya Sharma,Female,22,Computer Science,84.6,80.2,83.7,70.5,75.9,81.1
+S0042,Mihir Das,Male,20,Arts,79.7,63.0,45.6,52.7,68.8,66.1
+S0043,Nisha Malik,Female,17,Computer Science,84.0,79.8,84.9,40.0,66.0,51.0
+S0044,Rahul Patel,Female,17,Engineering,88.2,77.6,100.0,77.2,94.7,84.7
+S0045,Sana Mehta,Male,19,Computer Science,87.6,75.1,70.1,61.1,78.4,80.4
+S0046,Tanvi Bose,Male,20,Health Sciences,76.2,80.8,87.5,79.7,71.4,89.5
+S0047,Vikram Khan,Male,17,Business,86.8,65.5,34.8,76.1,60.0,62.3
+S0048,Yash Nair,Male,21,Health Sciences,88.1,60.7,58.9,68.8,92.0,79.4
+S0049,Aarav Kulkarni,Male,20,Arts,100.0,41.5,59.0,49.2,50.6,64.4
+S0050,Aisha Reddy,Female,17,Arts,100.0,42.4,56.4,67.6,45.9,79.7
+S0051,Ananya Joshi,Male,17,Arts,78.3,66.8,90.8,93.8,61.9,81.7
+S0052,Arjun Chopra,Female,19,Computer Science,83.4,50.5,82.0,45.3,60.3,49.7
+S0053,Diya Gupta,Male,21,Engineering,72.8,74.8,66.2,68.4,82.6,80.3
+S0054,Ishaan Rao,Female,21,Business,80.7,97.9,66.6,82.3,77.2,37.4
+S0055,Kabir Verma,Male,19,Business,88.8,78.7,70.3,63.8,84.0,68.1
+S0056,Kiara Singh,Male,18,Computer Science,96.9,47.5,80.4,67.9,31.0,13.3
+S0057,Meera Kapoor,Male,22,Business,79.4,77.0,60.1,73.6,81.5,50.1
+S0058,Neha Fernandes,Female,19,Computer Science,80.1,64.3,74.2,78.6,91.9,72.6
+S0059,Rohan Iyer,Male,18,Arts,66.7,70.1,97.4,62.1,64.0,77.3
+S0060,Sara Thomas,Male,19,Arts,84.5,73.5,53.4,72.1,70.7,55.3
+S0061,Vihaan Sharma,Male,17,Health Sciences,76.4,98.0,77.2,89.1,85.6,80.1
+S0062,Zoya Das,Female,18,Arts,81.2,64.3,65.3,54.8,61.6,82.8
+S0063,Aditya Malik,Male,20,Engineering,78.1,75.0,58.0,44.5,62.3,54.4
+S0064,Fatima Patel,Male,22,Health Sciences,85.2,71.6,86.7,84.2,96.1,99.9
+S0065,Kavya Mehta,Female,21,Business,70.2,74.5,79.3,71.2,100.0,72.4
+S0066,Mihir Bose,Male,21,Engineering,72.8,100.0,69.2,77.2,88.4,91.3
+S0067,Nisha Khan,Female,20,Health Sciences,100.0,84.9,90.4,82.0,100.0,99.6
+S0068,Rahul Nair,Male,17,Engineering,74.4,94.6,72.5,92.0,81.9,77.0
+S0069,Sana Kulkarni,Female,19,Computer Science,76.1,92.2,100.0,64.7,100.0,77.1
+S0070,Tanvi Reddy,Male,22,Business,100.0,65.9,53.4,42.0,61.8,55.6
+S0071,Vikram Joshi,Male,17,Arts,100.0,63.3,58.3,53.9,69.5,61.5
+S0072,Yash Chopra,Male,22,Computer Science,75.5,62.8,73.3,83.3,73.2,46.4
+S0073,Aarav Gupta,Male,21,Business,82.7,58.4,78.9,72.1,100.0,62.6
+S0074,Aisha Rao,Male,18,Computer Science,89.1,65.0,67.2,70.1,74.1,49.0
+S0075,Ananya Verma,Female,21,Arts,100.0,67.8,59.8,65.3,73.5,87.1
+S0076,Arjun Singh,Female,22,Business,77.1,77.5,78.0,57.1,85.2,68.0
+S0077,Diya Kapoor,Male,17,Engineering,83.8,70.3,46.9,63.7,57.0,51.9
+S0078,Ishaan Fernandes,Male,17,Engineering,93.0,66.7,70.3,64.0,60.5,59.1
+S0079,Kabir Iyer,Female,20,Business,89.9,72.0,60.4,83.0,90.4,76.1
+S0080,Kiara Thomas,Female,22,Arts,82.6,85.7,87.6,79.0,84.6,85.6
+S0081,Meera Sharma,Male,17,Health Sciences,84.8,91.3,87.3,99.3,100.0,81.0
+S0082,Neha Das,Male,20,Business,73.6,100.0,90.7,100.0,100.0,89.6
+S0083,Rohan Malik,Female,17,Computer Science,83.9,57.6,90.1,89.9,87.6,90.8
+S0084,Sara Patel,Female,20,Health Sciences,83.6,58.1,67.0,72.8,71.2,55.2
+S0085,Vihaan Mehta,Female,20,Arts,88.1,23.7,42.2,29.1,28.3,28.5
+S0086,Zoya Bose,Male,17,Arts,81.0,56.0,93.4,48.0,85.9,77.3
+S0087,Aditya Khan,Female,21,Computer Science,90.2,82.4,62.8,79.1,58.3,69.6
+S0088,Fatima Nair,Male,22,Engineering,95.1,79.7,71.3,84.2,55.6,48.6
+S0089,Kavya Kulkarni,Female,22,Arts,85.1,55.6,69.5,53.0,67.6,65.0
+S0090,Mihir Reddy,Female,17,Health Sciences,89.2,53.4,66.0,50.1,76.5,78.3
+S0091,Nisha Joshi,Male,18,Business,86.5,48.2,91.4,85.9,79.4,86.2
+S0092,Rahul Chopra,Male,18,Health Sciences,86.0,68.2,70.3,86.9,88.7,80.3
+S0093,Sana Gupta,Male,19,Health Sciences,79.5,100.0,68.3,93.8,59.1,52.4
+S0094,Tanvi Rao,Male,17,Engineering,88.8,67.3,80.5,69.3,61.2,64.1
+S0095,Vikram Verma,Male,22,Health Sciences,85.1,47.9,44.1,51.1,51.6,48.9
+S0096,Yash Singh,Male,21,Engineering,100.0,73.7,41.2,58.4,71.6,60.4
+S0097,Aarav Kapoor,Male,21,Engineering,100.0,54.2,94.2,74.0,80.3,81.4
+S0098,Aisha Fernandes,Female,18,Arts,89.5,86.9,100.0,87.9,82.4,100.0
+S0099,Ananya Iyer,Female,17,Arts,79.1,73.6,69.6,61.3,85.1,92.0
+S0100,Arjun Thomas,Male,22,Computer Science,85.1,84.8,64.6,100.0,90.6,99.6
+S0101,Diya Sharma,Female,18,Health Sciences,96.7,77.0,65.8,89.9,48.8,64.2
+S0102,Ishaan Das,Male,20,Computer Science,88.4,66.1,60.5,76.6,42.5,64.2
+S0103,Kabir Malik,Male,22,Health Sciences,90.3,70.4,62.1,52.3,66.2,69.6
+S0104,Kiara Patel,Female,17,Computer Science,70.3,58.8,55.7,78.3,68.4,66.5
+S0105,Meera Mehta,Male,17,Arts,94.3,100.0,100.0,100.0,97.2,94.0
+S0106,Neha Bose,Female,17,Arts,90.1,81.5,70.3,68.3,65.6,69.8
+S0107,Rohan Khan,Male,17,Arts,76.0,68.6,64.3,96.2,86.9,77.5
+S0108,Sara Nair,Female,17,Arts,81.8,50.4,71.5,69.7,76.4,50.3
+S0109,Vihaan Kulkarni,Female,21,Business,88.4,98.3,100.0,92.1,72.9,75.3
+S0110,Zoya Reddy,Male,20,Arts,86.5,72.9,79.3,83.9,65.2,80.8
+S0111,Aditya Joshi,Male,22,Engineering,83.4,88.6,69.7,76.9,62.7,69.8
+S0112,Fatima Chopra,Female,21,Arts,85.1,65.2,70.8,50.1,78.0,72.6
+S0113,Kavya Gupta,Male,22,Business,83.7,82.3,74.2,66.8,83.7,70.8
+S0114,Mihir Rao,Male,18,Business,87.4,78.5,58.1,71.2,75.7,70.4
+S0115,Nisha Verma,Female,18,Business,99.2,70.1,71.0,52.6,41.0,74.1
+S0116,Rahul Singh,Male,22,Business,62.9,77.3,55.8,79.7,42.1,61.1
+S0117,Sana Kapoor,Male,18,Computer Science,83.9,56.6,85.1,82.7,54.9,44.1
+S0118,Tanvi Fernandes,Female,17,Computer Science,87.6,65.6,76.8,94.2,74.2,92.2
+S0119,Vikram Iyer,Male,21,Engineering,88.7,85.5,100.0,94.9,90.0,82.9
+S0120,Yash Thomas,Male,21,Computer Science,82.7,82.2,65.5,94.0,81.2,54.9
